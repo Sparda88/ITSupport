@@ -1,0 +1,12 @@
+#!/bin/bash
+#list of commands and a small description
+echo "desk-cd to root desktop" 
+echo "useful_commands-list of some useful commands for future reference"
+echo "game-a little IF statement project"
+#User input
+read -p "Run Script:" n1
+#run script that is written out
+cd /bin
+bash $n1
+
+
