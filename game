@@ -1,0 +1,13 @@
+#!/bin/bash
+
+#IF game on showing up to school
+read -p "So, you woke up today and have to decide whether you should go to school or not. Do you?:y/n " n1
+if ["$n1" -eq "y" ]; then 
+echo "Get on the bus"
+if ["n1"="n"]; then
+echo "come on Mark just go back to sleep"
+else
+echo "just a simple y or n will be enough"
+fi
+fi
+
