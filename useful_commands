@@ -1,0 +1,3 @@
+#!/bin/bash
+cat useful_commands
+#seq 1 5 -sequence numbers such as 1 to 5

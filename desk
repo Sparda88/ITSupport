@@ -1,0 +1,7 @@
+#!/bin/bash
+
+##CD to root desktop
+
+cd /home/Sparda88/Desktop/
+echo "moved to root desktop"
+exec bash
